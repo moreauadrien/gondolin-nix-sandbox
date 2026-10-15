@@ -66,4 +66,5 @@ PATH=/opt/nix-profile/bin:$PATH nix profile install \
   nixpkgs#wget \
   nixpkgs#xz \
   nixpkgs#zip \
-  nixpkgs#zstd
+  nixpkgs#zstd \
+  nixpkgs#tmux
